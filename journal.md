@@ -10,3 +10,11 @@ This situation teaches me that when working on technology projects, I must alway
 | Kayla     | GMC Sierra    | Fixed Wrong Problem      |
 |Bart       |Toyota Corolla | Left Stains On Carpet    |
 | Harrinson |Subaru Forester| Left The Oil Cap Off     |
+# February 11, 2025
+| Shape     | Color    | count |
+| --------- | -------- | ----- |
+| Circle    | Green    |  7    |
+| Square    | Yellow   |  5    |
+| Hexagon   | Brown    |  6    |
+| Triangle  | Purple   |  4    |
+| Octagon   | Red      |  3    |
