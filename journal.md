@@ -21,10 +21,10 @@ This situation teaches me that when working on technology projects, I must alway
 # February 18, 2025
 The most interesting thing I learn last week is that sea otters rub their faces to keep themselves warm, hold hands when sleeping and have a little pocket to store food and their favorites rocks.
 # March 3, 2025
-| Name    | power       | challenge |
-| ------- | ------------| ----------|
-| Zara    | Telekinesis
-| Aethe   |
-| Thorne  |
-| Silver  |
-| Tangier |
+| Name    | power                | challenge            |
+| ------- | ---------------------| ---------------------|
+| Zara    | Telekinesis          | secure building      |
+| Aethe   | Weather Manipulation | prevent assassination|
+| Thorne  | Invisibility         | underwater rescue    |
+| Silver  | Mind control         | retrieve stolen goods|
+| Tangier | Shapeshifting        | extract prisioner    |
