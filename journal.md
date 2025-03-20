@@ -28,3 +28,5 @@ The most interesting thing I learn last week is that sea otters rub their faces 
 | Thorne  | Invisibility         | underwater rescue    |
 | Silver  | Mind control         | retrieve stolen goods|
 | Tangier | Shapeshifting        | extract prisioner    |
+# March 18, 2025
+I complete Compute It in hour of code
