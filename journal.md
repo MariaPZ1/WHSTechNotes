@@ -30,3 +30,5 @@ The most interesting thing I learn last week is that sea otters rub their faces 
 | Tangier | Shapeshifting        | extract prisioner    |
 # March 18, 2025
 I complete Compute It in hour of code
+# March 24, 2025
+Education is the process of gaining information or sharing knowdledge, its main goal is to prepare people to contribute in a society. An educated population supports economic growth.
