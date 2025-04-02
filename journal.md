@@ -32,3 +32,5 @@ The most interesting thing I learn last week is that sea otters rub their faces 
 I complete Compute It in hour of code
 # March 24, 2025
 Education is the process of gaining information or sharing knowdledge, its main goal is to prepare people to contribute in a society. An educated population supports economic growth.
+# April 2, 2025
+I complete Make a flappy game in hour of code
