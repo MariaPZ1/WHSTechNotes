@@ -36,3 +36,9 @@ Education is the process of gaining information or sharing knowdledge, its main 
 I complete Make a flappy game in hour of code
 # April 7, 2025
 I think AI like chat GPT can help me to stay organized in order to study for my STAAR test, it also can help me study better by doing question that may be in the STAAR and helping with the reasoning to help with the real questions in the STAAR test.
+# April 28, 2025
+| Name  | flavor   | Occasion     | price |
+|-------|----------|--------------|-------|
+|Sally  | Chocolate|graduation    |$35.00 |
+|Michael|Vanilla   |Farewell party|$37.00 |
+|Emma   |Carrot    |Birthday      |$39.00 |
