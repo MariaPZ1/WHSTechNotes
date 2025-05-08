@@ -42,3 +42,5 @@ I think AI like chat GPT can help me to stay organized in order to study for my 
 | Sally   | Chocolate | graduation    | $35.00 |
 | Michael | Vanilla   | Farewell party| $37.00 |
 | Emma    | Carrot    | Birthday      | $39.00 |
+# May 5, 2025
+I don't think 100 unarmed people could beat a silverback gorilla because the gorilla is much stronger, faster and heavy than any human. Even with a lot of people, fear and chaos would make it hard to work together, and many would get hurt quickly. Making this idea go viral is also risky. Because it spreads the wrong message about animals and make people forget how dangerous they really are. Online trends often focus more on shock than truth, and that can chamge how people think in harmful ways.
